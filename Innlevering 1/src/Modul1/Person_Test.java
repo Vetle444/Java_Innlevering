@@ -12,6 +12,8 @@ public class Person_Test {
         Staff staff = new Staff("Cleaner", 100333, "Håkon", "Bodøveien 392", "91474344", "cool@gmail.com");
         System.out.println(staff.toString());
 
+        
+
     }
 
 }
